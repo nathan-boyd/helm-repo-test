@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-repo-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-22T16:39:26.814859-04:00"
+    description: A Helm chart for Kubernetes
+    digest: acf128404f44b2391a26b95e3915aa919a58fd6171cccd468c52d78d4f8b16e0
+    name: helm-repo-test
+    type: library
+    urls:
+    - https://github.com/nathan-boyd/helm-repo-test/releases/download/0.1.0/helm-repo-test-0.1.0.tgz/helm-repo-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-22T16:39:26.814134-04:00"
