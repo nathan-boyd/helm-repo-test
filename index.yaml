@@ -9,6 +9,6 @@ entries:
     name: helm-repo-test
     type: library
     urls:
-    - https://github.com/nathan-boyd/helm-repo-test/releases/download/0.1.0/helm-repo-test-0.1.0.tgz/helm-repo-test-0.1.0.tgz
+    - https://github.com/nathan-boyd/helm-repo-test/releases/download/0.1.0/helm-repo-test-0.1.0.tgz
     version: 0.1.0
 generated: "2022-09-22T16:39:26.814134-04:00"
